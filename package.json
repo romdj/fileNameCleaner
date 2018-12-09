@@ -1,13 +1,18 @@
 {
-  "name": "fileRenamer",
+  "name": "filenamecleaner",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Cleaning folder and file names from unrelevant/duplicate data and remove unnecessary files",
+  "main": "app.mjs",
   "scripts": {
+    "run": "node --experimental-modules app.mjs <path>",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "FileCleaner",
+    "DLJunky",
+    "MediaLibraryManiac"
+  ],
+  "author": "Romain Lussier",
   "license": "ISC",
   "dependencies": {
     "commander": "^2.19.0"
