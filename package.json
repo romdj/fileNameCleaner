@@ -13,7 +13,7 @@
     "MediaLibraryManiac"
   ],
   "author": "Romain Lussier",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "commander": "^2.19.0"
   }
