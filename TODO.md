@@ -1,0 +1,4 @@
+- Add Music renamer
+- Add Program renamer
+- Handle more test cases
+- implement commander -> refactoring into microservices?
